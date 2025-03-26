@@ -1,0 +1,20 @@
+body{
+  height: 100vh;
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url("./assets/back.jpg");
+  background-size: cover;
+}
+/* App.css */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
