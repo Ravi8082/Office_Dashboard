@@ -94,9 +94,9 @@ const Contact = () => {
             <h2>Contact Information</h2>
             <p>Feel free to reach out to us through any of these channels</p>
             
-            <div className="info-items">
-              <div className="info-item">
-                <div className="info-icon">
+            <div className="info-items1">
+              <div className="info-item1">
+                <div className="info-icon1">
                   <FaMapMarkerAlt />
                 </div>
                 <div className="info-content">
@@ -105,33 +105,33 @@ const Contact = () => {
                 </div>
               </div>
               
-              <div className="info-item">
-                <div className="info-icon">
+              <div className="info-item1">
+                <div className="info-icon1">
                   <FaPhone />
                 </div>
-                <div className="info-content">
+                <div className="info-content1">
                   <h3>Phone Number</h3>
                   <p>+91 8052696360</p>
                   <p>+91 9594209613</p>
                 </div>
               </div>
               
-              <div className="info-item">
-                <div className="info-icon">
+              <div className="info-item1">
+                <div className="info-icon1">
                   <FaEnvelope />
                 </div>
-                <div className="info-content">
+                <div className="info-conten1t">
                   <h3>Email Address</h3>
                   <p>palravi1093@gmail.com</p>
                   <p>palram1093@gmail.com</p>
                 </div>
               </div>
               
-              <div className="info-item">
-                <div className="info-icon">
+              <div className="info-item1">
+                <div className="info-icon1">
                   <FaClock />
                 </div>
-                <div className="info-content">
+                <div className="info-content1">
                   <h3>Working Hours</h3>
                   <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
                   <p>Saturday: 9:00 AM - 1:00 PM</p>
@@ -139,7 +139,7 @@ const Contact = () => {
               </div>
             </div>
             
-            <div className="social-links">
+            <div className="social-links1">
               <h3>Connect With Us</h3>
               <div className="social-icons">
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
